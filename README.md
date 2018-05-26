@@ -1,1 +1,4 @@
 # Auction
+Sword 
+Gun
+Cannon
